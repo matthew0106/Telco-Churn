@@ -4,7 +4,7 @@
 
 
 ## Overview
-This project analyzes customer churn in a telecom dataset to identify key factors influencing churn and develop predictive models for better customer retention strategies.
+This project analyses customer churn in a telecom dataset to identify key factors influencing churn and develop predictive models for better customer retention strategies.
 
 ## Dataset
 The dataset includes customer details, usage patterns, and service interactions. Key features:
@@ -23,7 +23,7 @@ The dataset includes customer details, usage patterns, and service interactions.
 ### 2. Data Cleaning & Preprocessing
 - Handling missing values.
 - Encoding categorical variables for machine learning compatibility.
-- Standardizing numerical features to optimize model performance.
+- Standardising numerical features to optimize model performance.
 
 ### 3. Exploratory Data Analysis (EDA)
 
@@ -46,7 +46,7 @@ The dataset includes customer details, usage patterns, and service interactions.
 
 ### 4. Feature Engineering
 - Encoding categorical features using **One-Hot Encoding.**
-- Standardizing numerical variables with **StandardScaler.**
+- Standardising numerical variables with **StandardScaler.**
 - Creating new features to improve predictive power.
 
 ### 5. 🤖 Machine Learning Models & Evaluation
@@ -72,7 +72,7 @@ The dataset includes customer details, usage patterns, and service interactions.
 - **Cons:** Prone to overfitting, less generalizable.
 
 ✅ **Final Model Selection:**  
-**Logistic Regression** was chosen for its **better generalization and interpretability** over complex models.
+**Logistic Regression** was chosen for its **better generalisation and interpretability** over complex models.
 
 ---
 
@@ -86,7 +86,7 @@ The dataset includes customer details, usage patterns, and service interactions.
 ### 📈 **Recommendations:**
 ✅ **Improve Customer Support Services:** Reduce dissatisfaction by enhancing **response times and issue resolution**.  
 ✅ **Offer Competitive International Plans:** Reduce churn by introducing **better international call rates**.  
-✅ **Optimize Pricing Strategies for High-Usage Customers:** Provide **discounts or incentives** to retain high-value users.  
+✅ **Optimise Pricing Strategies for High-Usage Customers:** Provide **discounts or incentives** to retain high-value users.  
 
 ---
 
